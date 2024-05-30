@@ -1,4 +1,4 @@
-# caro2
+# Cờ caro
 
 > Hello ae, đây là dự án cờ Caro
 > 
@@ -7,6 +7,8 @@
 - PvE: mình sẽ đc đánh vs bot (con bot này uy tín, tin t)
 - Undo/Redo: đi lại
 - Exit/New Game: cái tên nói lên tính năng r
+- Timer: tính thời gian cho các nước đi, hết giờ = loss
+>
 > Ae cứ test thử và nếu đc thì viết giúp t cái report
 > 
 > Cảm ơn rất nhiều vì đã đọc
